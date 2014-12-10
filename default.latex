@@ -1,0 +1,85 @@
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry}
+\setcounter{secnumdepth}{0}
+\usepackage[parfill]{parskip}
+\usepackage{array}
+\usepackage{ifthen}
+\usepackage{multicol}
+\usepackage{enumitem}
+\usepackage{textcomp}
+
+\pagestyle{empty}
+
+\def \rAddress #1{
+    \begingroup
+    \def \\ {\addressSep\ }
+    \centerline{#1}
+    \endgroup
+    \par
+    \smallskip
+}
+\def \rEmail #1{
+    \begingroup
+    \def \\ {\addressSep\ }
+    \centerline{#1}
+    \endgroup
+    \par
+    \smallskip
+}
+\def \rPhone #1{
+    \begingroup
+    \def \\ {\addressSep\ }
+    \centerline{#1}
+    \endgroup
+    \par
+    \smallskip
+}
+
+\usepackage{sectsty}
+
+\usepackage[normalem]{ulem}
+\renewcommand\subsection[1]{
+    \leftskip 0ex
+    \medskip
+    \MakeUppercase{\bf #1}
+    \medskip
+    \hrule
+    \leftskip 3ex
+}
+
+\newcommand\jobtitle[4]{ % company name, year(s) employed, job title and location
+    \noindent\begin{minipage}{0.5\textwidth}
+        \begin{flushleft}
+            {\bf #1}
+            \\
+            {\em #3}
+        \end{flushleft}
+    \end{minipage}
+    \begin{minipage}{0.5\textwidth}
+        \begin{flushright}
+            \rightskip 4ex
+            {#2}
+            \\
+            {\em #4}
+        \end{flushright}
+    \end{minipage}
+}
+
+\renewcommand\section[1]{
+    \begingroup
+    \hfil{\MakeUppercase{\huge\bf #1}}\hfil
+    \bigskip\break
+    \endgroup
+}
+
+\setitemize{leftmargin=1.5em,noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt,after=\newline}
+
+\begin{document}
+\renewcommand{\labelitemi}{\textperiodcentered}
+
+\hspace*{-3cm}
+
+$body$
+
+\end{document}
