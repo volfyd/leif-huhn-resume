@@ -9,12 +9,10 @@ Leif Huhn
 Professional Summary
 --------------------
 
-Dev-ops developer with over 15 years of experience in IT.  Experience
-in a wide variety of technologies and platforms.  Particular strengths
-in maintaining Linux servers and automating processes using Perl
-scripting.  Initiated infrastructure improvements as well as new
-programming methodologies and systems. Motivated self-starter and
-enthusiastic team member.
+Developer with over 15 years of experience in tech.  Experience
+in a wide variety of technologies and languages.  Particular strengths
+in automating processes using scripting languages.  Initiated new programming
+methodologies and systems. Motivated self-starter and enthusiastic team member.
 
 Professional Experience
 -----------------------
@@ -30,7 +28,7 @@ Professional Experience
    automated program “Rack-and-Roll,” greatly simplifying the process
    of adding new hardware into the lab.
 
- * Created system to power down unused testing machines, saving power,
+ * Programmed system to power down unused testing machines, saving power,
    cooling, and money.
 
  * Automated VMWare vCenter to automate the installation and testing of
@@ -39,18 +37,19 @@ Professional Experience
  * Troubleshot various DHCP, TFTP, and PXE networking problems using Cisco,
    Force10, and commodity hardware.
 
- * Troubleshot a myriad of problems with internal appliance manufacturing.
+ * Troubleshot a myriad of problems with internal appliance manufacturing code.
    These problems had various root causes, such as bugs in the unreleased
    product, bugs in the build system, hardware problems, user error,
    networking problems, service outages, etc.
 
- * Integrated new products into our existing test and networking
+ * Integrated new products into our existing testing and networking
    infrastructure.
 
- * Used puppet to automate system administration tasks.
+ * Used puppet and salt to automate system administration tasks.
 
  * Moved existing Perl web app to PersistentPerl, greatly improving
-   performance.
+   performance.  Also mentored junior coders to decouple dependencies in
+   the same app to improve load time and debugability.
 
  * Documented new and existing procedures.
 
@@ -58,9 +57,12 @@ Professional Experience
 
  * Made OO design decisions for future direction of testing codebase.
 
- * Participated in the code review process.
+ * Participated in the code review process.  Worked with other engineers to
+   move to test driven development.
 
-### **System Administrator**       2003 – 2010
+ * Worked on a team creating new frameworks for QA.
+
+### **Jack of all Trades**       2003 – 2010
 
  Drogin, Kakigi & Associates -- Berkeley, CA
 
@@ -84,8 +86,6 @@ Professional Experience
 
  * Evaluated server workloads and made purchasing decisions.
 
- * Hired and oversaw contractors to upgrade data and phone wiring.
-
  * Used Nagios to provide 24/7/365 monitoring of critical services.
 
  * Utilized intrusion prevention and detection software to maintain
@@ -93,8 +93,6 @@ Professional Experience
 
  * Responsible for migrating data obtained through legal discovery into our
    systems (i.e. from Oracle, PostreSQL, etc).
-
- * Provided desktop support for the local office.
 
  * Used scripting to automate backup processes.
 
@@ -111,7 +109,7 @@ Professional Experience
 
  * Oversaw and trained junior web developers.
 
- * Wrote perl programs to process data in legacy formats.
+ * Wrote Perl programs to process data in legacy formats.
 
  * Met with clients to deliver sales presentations.
 
@@ -125,27 +123,26 @@ Professional Experience
    tracking bird migration patterns thereby freeing an analyst from writing
    weekly reports.
 
- * Managed IIS web servers.
-
 Technical Skills
 ----------------
 
- * Perl, Python, C/C++, Java
+ * Perl, Python, pytest, C, C++, Java, Ruby, JavaScript, CoffeeScript
+ * SVN, Git
  * XML, HTML, SQL, CGI
  * Apache, IIS
  * MySQL, Oracle, PostgreSQL
+ * Unix Scripting: bash, tcsh, expect
+ * Windows Deployment, Hyper-V, cygwin, Powershell
+ * OS X, Linux, BSD, Solaris
+ * Jenkins
+ * VMWare ESX, vCenter, KVM, AWS
+ * LaTeX
  * Cisco IOS, Force10 FTOS
- * Puppet, Linux, BSD, Solaris
+ * Puppet, Salt
  * Sendmail, DNS
  * Icinga, Nagios, Snort
  * RAID, LVM, NFS
  * tcpdump, wireshark
- * Unix Scripting: bash, tcsh, expect
- * Windows Deployment, Hyper-V, cygwin, Powershell
- * OS X
- * VMWare ESX, vCenter
- * KVM
- * LaTeX
 
 
 Education & Hobbies
