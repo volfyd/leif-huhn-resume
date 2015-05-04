@@ -17,8 +17,9 @@ methodologies and systems. Motivated self-starter and enthusiastic team member.
 Professional Experience
 -----------------------
 
-### **Riverbed Technology**        2010 – Present
-   Team Lead            --         San Francisco, CA
+### **Team Lead**        2010 – Present
+
+   Riverbed Technology -- San Francisco, CA
 
  * Mentored junior coders.
 
