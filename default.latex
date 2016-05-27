@@ -48,6 +48,8 @@
     \leftskip 3ex
 }
 
+\def\tightlist{}
+
 \newcommand\jobtitle[4]{ % company name, year(s) employed, job title and location
     \noindent\begin{minipage}{0.5\textwidth}
         \begin{flushleft}

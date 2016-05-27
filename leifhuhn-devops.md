@@ -1,17 +1,17 @@
 Leif Huhn
 =========
 
-    San Francisco, CA  94102
+    Chicago, IL  60640
 
-    code.gardener@leifhuhn.com
+    captain.nemo@leifhuhn.com
     (415) 343-5343
 
 Professional Summary
 --------------------
 
-Dev-ops developer with over 15 years of experience in IT.  Experience
+Site-reliability engineer with over 16 years of experience in IT.  Experience
 in a wide variety of technologies and platforms.  Particular strengths
-in maintaining Linux servers and automating processes using Perl
+in maintaining Linux servers and automating processes using Salt and Python
 scripting.  Initiated infrastructure improvements as well as new
 programming methodologies and systems. Motivated self-starter and
 enthusiastic team member.
@@ -19,7 +19,23 @@ enthusiastic team member.
 Professional Experience
 -----------------------
 
-### **Team Lead**        2010 – Present
+### **Senior Lead Software Developer**        2015 – Present
+   CenturyLink Cloud -- Bellevue, WA
+
+ * Managed cloud services in both AWS and CenturyLink cloud.
+
+ * Used SaltStack to manage Linux, Hadoop, HBase, Zookeeper, Kafka, and
+   Elastic Search.
+
+ * Deployed Master-Master replication in order to perform blue-green upgrade
+   deployment of critical database infrastructure.
+
+ * Deployed Consul in multi-datacenter mesh in order to support application
+   failover.
+
+ * Used Bash and Go scripting for various System Administration purposes.
+
+### **Team Lead**        2010 – 2015
    Riverbed Technology -- San Francisco, CA
 
  * Mentored junior coders.
@@ -37,28 +53,20 @@ Professional Experience
    VMs.
 
  * Troubleshot various DHCP, TFTP, and PXE networking problems using Cisco,
-   Force10, and commodity hardware.
+   Force10 hardware.
 
  * Troubleshot a myriad of problems with internal appliance manufacturing.
    These problems had various root causes, such as bugs in the unreleased
    product, bugs in the build system, hardware problems, user error,
    networking problems, service outages, etc.
 
- * Integrated new products into our existing test and networking
-   infrastructure.
-
  * Used puppet to automate system administration tasks.
-
- * Moved existing Perl web app to PersistentPerl, greatly improving
-   performance.
-
- * Documented new and existing procedures.
 
  * Refactored testing codebase for greater maintainability.
 
  * Made OO design decisions for future direction of testing codebase.
 
- * Participated in the code review process.
+ * Participated in the code review process and documented new procedures.
 
 ### **System Administrator**       2003 – 2010
 
@@ -72,10 +80,6 @@ Professional Experience
    legacy versions of BSD and SunOS to Linux, thereby saving on licensing
    costs.
 
- * Used VMWare to create Windows server on existing Linux server to provide
-   essential services that were only rarely required, thereby saving the
-   cost of having another server.
-
  * Managed remote servers for multiple law firms.  Worked with system
    administrators from client companies to resolve networking problems.
 
@@ -88,13 +92,8 @@ Professional Experience
 
  * Used Nagios to provide 24/7/365 monitoring of critical services.
 
- * Utilized intrusion prevention and detection software to maintain
-   security (Snort).
-
  * Responsible for migrating data obtained through legal discovery into our
    systems (i.e. from Oracle, PostreSQL, etc).
-
- * Provided desktop support for the local office.
 
  * Used scripting to automate backup processes.
 
@@ -111,7 +110,7 @@ Professional Experience
 
  * Oversaw and trained junior web developers.
 
- * Wrote perl programs to process data in legacy formats.
+ * Wrote Perl programs to process data in legacy formats.
 
  * Met with clients to deliver sales presentations.
 
@@ -130,21 +129,21 @@ Professional Experience
 Technical Skills
 ----------------
 
- * Perl, Python, C/C++, Java
+ * Perl, Python, C/C++, Java, Go.
  * XML, HTML, SQL, CGI
+ * NoSQL databases, Hadoop, HBase, Zookeeper, Kafka, Consul
  * Apache, IIS
  * MySQL, Oracle, PostgreSQL
  * Cisco IOS, Force10 FTOS
- * Puppet, Linux, BSD, Solaris
+ * Puppet, Salt, Linux, BSD, Solaris
  * Sendmail, DNS
- * Icinga, Nagios, Snort
+ * Icinga, Nagios, Snort, Kibana, Graphite, Carbon
  * RAID, LVM, NFS
  * tcpdump, wireshark
  * Unix Scripting: bash, tcsh, expect
  * Windows Deployment, Hyper-V, cygwin, Powershell
  * OS X
- * VMWare ESX, vCenter
- * KVM
+ * VMWare ESX, vCenter, AWS, Docker, KVM
  * LaTeX
 
 
@@ -157,11 +156,7 @@ Education & Hobbies
 
  *  Florida State University, Tallahassee, FL
 
-    Completed University Honors Program
+    Completed University Honors Program. GPA: 3.9
 
-    GPA: 3.9
-
- *  Conversational in American Sign Language
-
- *  Home automation including a web dashboard at home using a Ruby /
-    CoffeeScript framework running on a RaspberryPi 2.
+ *  Conversational in American Sign Language, some knowledge of Spanish,
+    French, and Japanese
