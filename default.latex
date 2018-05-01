@@ -8,6 +8,7 @@
 \usepackage{multicol}
 \usepackage{enumitem}
 \usepackage{textcomp}
+\usepackage{bookmark}
 
 \pagestyle{empty}
 

@@ -1,15 +1,15 @@
 Leif Huhn
 =========
 
-    Chicago, IL  60640
+    Chicago, IL  60660
 
-    captain.nemo@leifhuhn.com
-    (415) 343-5343
+    leif.n.huhn@gmail.com
+    (415) 583-5685
 
 Professional Summary
 --------------------
 
-Site-reliability engineer with over 16 years of experience in IT.  Experience
+Site-reliability engineer with over 18 years of experience in IT.  Experience
 in a wide variety of technologies and platforms.  Particular strengths
 in maintaining Linux servers and automating processes using Salt and Python
 scripting.  Initiated infrastructure improvements as well as new
@@ -20,7 +20,7 @@ Professional Experience
 -----------------------
 
 ### **Senior Lead Software Developer**        2015 – Present
-   CenturyLink Cloud -- Bellevue, WA
+   CenturyLink Cloud -- Bellevue, WA and St. Louis, MO
 
  * Managed cloud services in both AWS and CenturyLink cloud.
 
@@ -33,7 +33,13 @@ Professional Experience
  * Deployed Consul in multi-datacenter mesh in order to support application
    failover.
 
- * Used Bash and Go scripting for various System Administration purposes.
+ * Used Bash and Go scripting for various system administration purposes.
+
+ * Created a virtual firewall product for CenturyLink's cloud using NSX Edge
+   firewalling.
+
+ * Migrated features from a monolithic control portal to microservices running
+   on Kubernetes.
 
 ### **Team Lead**        2010 – 2015
    Riverbed Technology -- San Francisco, CA
@@ -55,18 +61,15 @@ Professional Experience
  * Troubleshot various DHCP, TFTP, and PXE networking problems using Cisco,
    Force10 hardware.
 
- * Troubleshot a myriad of problems with internal appliance manufacturing.
-   These problems had various root causes, such as bugs in the unreleased
-   product, bugs in the build system, hardware problems, user error,
-   networking problems, service outages, etc.
+ * Troubleshot problems with internal appliance manufacturing, including
+   bugs in the unreleased product, bugs in the build system, hardware problems,
+   user error, networking problems, service outages, etc.
 
  * Used puppet to automate system administration tasks.
 
  * Refactored testing codebase for greater maintainability.
 
  * Made OO design decisions for future direction of testing codebase.
-
- * Participated in the code review process and documented new procedures.
 
 ### **System Administrator**       2003 – 2010
 
@@ -95,7 +98,7 @@ Professional Experience
  * Responsible for migrating data obtained through legal discovery into our
    systems (i.e. from Oracle, PostreSQL, etc).
 
- * Used scripting to automate backup processes.
+ * Automated backup processes.
 
 ### **Web Developer**       2001 – 2003
 
@@ -111,8 +114,6 @@ Professional Experience
  * Oversaw and trained junior web developers.
 
  * Wrote Perl programs to process data in legacy formats.
-
- * Met with clients to deliver sales presentations.
 
 ### **Web Developer**         1999 – 2000
 
@@ -131,9 +132,10 @@ Technical Skills
 
  * Perl, Python, C/C++, Java, Go.
  * XML, HTML, SQL, CGI
- * NoSQL databases, Hadoop, HBase, Zookeeper, Kafka, Consul
+ * NoSQL databases, Hadoop, HBase, Zookeeper, Kafka, Consul, Couchbase
+ * RabbitMQ, Redis
  * Apache, IIS
- * MySQL, Oracle, PostgreSQL
+ * MySQL, Oracle, PostgreSQL, SQL Server
  * Cisco IOS, Force10 FTOS
  * Puppet, Salt, Linux, BSD, Solaris
  * Sendmail, DNS
@@ -143,7 +145,7 @@ Technical Skills
  * Unix Scripting: bash, tcsh, expect
  * Windows Deployment, Hyper-V, cygwin, Powershell
  * OS X
- * VMWare ESX, vCenter, AWS, Docker, KVM
+ * VMWare ESX, VMWare NSX, vCenter, AWS, Docker, Kubernetes, KVM
  * LaTeX
 
 
