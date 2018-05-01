@@ -9,12 +9,10 @@ Leif Huhn
 Professional Summary
 --------------------
 
-Site-reliability engineer with over 18 years of experience in IT.  Experience
-in a wide variety of technologies and platforms.  Particular strengths
-in maintaining Linux servers and automating processes using Salt and Python
-scripting.  Initiated infrastructure improvements as well as new
-programming methodologies and systems. Motivated self-starter and
-enthusiastic team member.
+Site-reliability engineer with over 18 years of experience in a wide variety of
+technologies and platforms. Particular strengths in maintaining large
+Elasticsearch and HBase/Hadoop clusters as well as fault tolerant virtual
+networking.
 
 Professional Experience
 -----------------------
