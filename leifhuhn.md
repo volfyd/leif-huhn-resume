@@ -10,15 +10,15 @@ Professional Summary
 --------------------
 
 Site-reliability engineer with over 18 years of experience in a wide variety of
-technologies and platforms. Particular strengths in maintaining large
-Elasticsearch and HBase/Hadoop clusters as well as fault tolerant virtual
-networking.
+technologies and platforms. Particular strengths in managing large
+Elasticsearch, HBase/Hadoop, and customer facing web apps in AWS and other
+clouds.  Strong programming skills and experience with large codebases.
 
 Professional Experience
 -----------------------
 
 ### **Senior Lead Software Developer**        2015 – Present
-   CenturyLink Cloud -- Bellevue, WA and St. Louis, MO
+   CenturyLink Cloud -- REMOTE Bellevue, WA and St. Louis, MO
 
  * Managed cloud services in both AWS and CenturyLink cloud.
 
@@ -129,18 +129,18 @@ Technical Skills
 ----------------
 
  * Perl, Python, C/C++, Java, Go.
- * XML, HTML, SQL, CGI
+ * XML, HTML, SQL
  * NoSQL databases, Hadoop, HBase, Zookeeper, Kafka, Consul, Couchbase
  * RabbitMQ, Redis
  * Apache, IIS
  * MySQL, Oracle, PostgreSQL, SQL Server
  * Cisco IOS, Force10 FTOS
- * Puppet, Salt, Linux, BSD, Solaris
+ * Puppet, Salt, Ansible, Linux, BSD
  * Sendmail, DNS
- * Icinga, Nagios, Snort, Kibana, Graphite, Carbon
+ * Icinga, Nagios, Kibana, Graphite, Prometheus
  * RAID, LVM, NFS
  * tcpdump, wireshark
- * Unix Scripting: bash, tcsh, expect
+ * Unix Scripting: bash, expect
  * Windows Deployment, Hyper-V, cygwin, Powershell
  * OS X
  * VMWare ESX, VMWare NSX, vCenter, AWS, Docker, Kubernetes, KVM
