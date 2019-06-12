@@ -9,16 +9,16 @@ Leif Huhn
 Professional Summary
 --------------------
 
-Site-reliability engineer with over 18 years of experience in a wide variety of
-technologies and platforms. Particular strengths in managing large
-Elasticsearch, HBase/Hadoop, and customer facing web apps in AWS and other
-clouds.  Strong programming skills and experience with large codebases.
+Site-reliability engineer with over 19 years of experience in a wide variety of
+technologies and platforms. Strengths in managing Elasticsearch, HBase/Hadoop,
+and customer facing web apps in Kubernetes, AWS EC2, and other clouds.
+Strong programming skills and experience with large codebases.
 
 Professional Experience
 -----------------------
 
-### **Senior Lead Software Developer**        2015 – Present
-   CenturyLink Cloud -- REMOTE Bellevue, WA and St. Louis, MO
+### **Senior Lead Software Developer**        2015 – 2019
+   CenturyLink Cloud -- REMOTE Bellevue, WA / St. Louis, MO
 
  * Managed cloud services in both AWS and CenturyLink cloud.
 
