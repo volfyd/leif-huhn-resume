@@ -1,7 +1,7 @@
 Leif Huhn
 =========
 
-    Chicago, IL  60660
+    Chattanooga, TN  60660
 
     leif.n.huhn@gmail.com
     (415) 583-5685
@@ -9,33 +9,47 @@ Leif Huhn
 Professional Summary
 --------------------
 
-Site-reliability / Tools & Automation engineer with over 20 years of experience
-in a wide variety of technologies and platforms. Strengths in managing apps
-running in large Kubernetes clusters in AWS EC2 and other clouds. Knowledge of
-Docker best practices and experience with Python, Go, and build systems.
+Site-reliability / Tools & Automation / DevOps engineer with over twenty years
+of experience in a wide variety of technologies and platforms. Strengths in
+managing apps running in large Kubernetes clusters in AWS EC2 and other clouds.
+Knowledge of Docker best practices and experience with Python, Go, and build
+systems. Particular strengths with troubleshooting complex systems.
 
 Professional Experience
 -----------------------
 
-### **Software Engineer**        2019 -- 2020
+### **Software Engineer III**        2019 -- current
 
    Wish -- REMOTE San Francisco, CA
 
- * Refactored Docker containers running Wish's development and production
-   primary web app and other infrastructure.
+ * Troubleshot multi-threaded legacy applications running multiple pods on Kubernetes.
 
- * Upgraded the containers running wish.com from Ubuntu 14.04 to 18.04.
+ * Participated in on-call rotation for wish.com. Prepared post-mortems for outages. Tracked action items
+   to improve stability and resiliency.
 
- * Troubleshot multi-threaded applications running on Kubernetes.
+ * Created a self-service system to maintain PagerDuty services leveraging Git and Terraform.
 
- * Packaged and contributed to open source developer tools in Go
+ * Had fun teaching and getting to know junior coworkers.
 
- * Maintained Docker builds in Gitlab and Go build pipelines in Launchpad.
+ * Helped others transition to remote work. Contributed to the team environment of camaraderie.
 
- * Tutored junior coworkers in best practices.
+ * Conducted many interviews for roles throughout the engineering org.
 
- * Participated in on-call rotation for both Tools & Automation, as well as
-   the site-up on-call for wish.com.
+ * Tech lead during onboarding process of dozens of contractors working on wish.com monolith.
+   Troubleshot blockers related to security restrictions and other issues with development environment.
+
+ * Maintained the Docker containers running our largest services.
+
+ * Upgraded the OS running wish.com for SOX compliance.
+
+ * Ported monolith and its platform to ARM architecture for speed and cost savings.
+
+ * Packaged and contributed to open source developer tools in Go.
+
+ * Converted Gitlab pipelines to be multi-stage, making them more efficient and easier to understand.
+
+ * Moved engineer onboarding process from a manual process to a repeatable automated process.
+
 
 ### **Senior Lead Software Developer**        2015 -- 2019
 
@@ -63,15 +77,11 @@ Professional Experience
 
  * Mentored junior coders.
 
- * Conceived of, collaboratively designed, and oversaw development of an
-   automated program “Rack-and-Roll,” greatly simplifying the process
-   of adding new hardware into the lab.
+ * Conceived of, collaboratively designed, and oversaw development of
+   automation to greatly simplifying the process of adding new hardware into the lab.
 
- * Created system to power down unused testing machines, saving power,
-   cooling, and money.
-
- * Automated VMWare vCenter to automate the installation and testing of
-   VMs.
+ * Created system to power down unused testing machines reducing environmental impact
+   and expense.
 
  * Troubleshot various DHCP, TFTP, and PXE networking problems.
 
@@ -85,21 +95,18 @@ Professional Experience
 
    Drogin, Kakigi & Associates -- Berkeley, CA
 
- * Installed, maintained, and updated Linux and Windows servers providing
-   critical infrastructure (mail, web, dns, nfs, mysql, iptables, RAID,
-   LVM, and ssh).
+ * Maintained critical infrastructure
+   (mail, web, DNS, NFS, MySQL, iptables, RAID, LVM, and ssh).
 
- * Managed remote servers for multiple law firms.  Worked with system
-   administrators from client companies to resolve networking problems.
+ * Managed remote servers for multiple law firms.
 
- * Transitioned our systems to 64-bit to allow processing of larger
-   datasets.
+ * Transitioned away from legacy 32-bit systems to allow processing of larger datasets.
 
  * Evaluated server workloads and made purchasing decisions.
 
  * Used Nagios to provide 24/7/365 monitoring of critical services.
 
- * Automated backup processes.
+ * Automated backups.
 
 ### **Web Developer**       2001 -- 2003
 
@@ -123,21 +130,18 @@ Professional Experience
 Technical Skills
 ----------------
 
- * Python, C/C++, Java, Go.
- * VMWare ESX, VMWare NSX, vCenter, AWS, Docker, Kubernetes, KVM
- * SQL, NoSQL databases, Hadoop, HBase
- * Zookeeper, Kafka, Consul, Couchbase
- * RabbitMQ, Redis
- * MySQL
- * Puppet, Salt, Linux, Git, cgroups
+ * Python, C/C++, Go.
+ * Unix Scripting: POSIX sh, bash, expect, zsh
+ * Kubernetes, Docker, KVM
+ * SQL, NoSQL databases
+ * Salt, Terraform, Linux, Git, cgroups
  * DNS
- * Icinga, Nagios, Kibana, Graphite, Grafana, Prometheus
+ * Graphite, Grafana, Prometheus
  * RAID, LVM, NFS
- * tcpdump, wireshark
- * Unix Scripting: POSIX sh, bash, expect
- * Windows Deployment, Hyper-V, cygwin
- * macOS, homebrew
- * AWS EC2, ECR, S3, CloudTrail
+ * tcpdump, Wireshark
+ * MacOS, homebrew
+ * AWS EC2, ECR, S3
+ * Gitlab
  * LaTeX
 
 
@@ -152,7 +156,7 @@ Education & Hobbies
 
     Completed University Honors Program. GPA: 3.9
 
- *  Some experience patching Linux kernel and qemu.
+ *  Studying Rust through on-line exercises
 
- *  Conversational in American Sign Language, some knowledge of Spanish,
-    French, and Japanese
+ *  Conversational in American Sign Language, some knowledge of Spanish
+    and French
