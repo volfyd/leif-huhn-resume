@@ -22,21 +22,21 @@ Professional Experience
 
    Wish -- REMOTE San Francisco, CA
 
- * Troubleshot multi-threaded legacy applications running multiple pods on Kubernetes.
+ * Diagnosed poor performance of multi-threaded applications running on Kubernetes.
 
  * Participated in on-call rotation for wish.com. Prepared post-mortems for outages. Tracked action items
    to improve stability and resiliency.
 
  * Created a self-service system to maintain PagerDuty services leveraging Git and Terraform.
 
- * Had fun teaching and getting to know junior coworkers.
+ * Mentored junior coworkers.
 
- * Helped others transition to remote work. Contributed to the team environment of camaraderie.
+ * Helped others transition to remote work.
 
  * Conducted many interviews for roles throughout the engineering org.
 
  * Tech lead during onboarding process of dozens of contractors working on wish.com monolith.
-   Troubleshot blockers related to security restrictions and other issues with development environment.
+   Identified blockers related to security restrictions and other issues with development environment.
 
  * Maintained the Docker containers running our largest services.
 
@@ -78,14 +78,14 @@ Professional Experience
  * Mentored junior coders.
 
  * Conceived of, collaboratively designed, and oversaw development of
-   automation to greatly simplifying the process of adding new hardware into the lab.
+   automation to streamline the process of adding new hardware into the lab.
 
  * Created system to power down unused testing machines reducing environmental impact
    and expense.
 
- * Troubleshot various DHCP, TFTP, and PXE networking problems.
+ * Performed troubleshooting of various DHCP, TFTP, and PXE networking problems.
 
- * Troubleshot problems with internal appliance manufacturing, including
+ * Debugged problems with internal appliance manufacturing, including
    bugs in the unreleased product, bugs in the build system, hardware problems,
    user error, networking problems, service outages, etc.
 
@@ -159,4 +159,6 @@ Education & Hobbies
  *  Studying Rust through on-line exercises
 
  *  Conversational in American Sign Language, some knowledge of Spanish
-    and French
+    and French.
+
+ *  Road trips and camping. Working toward goal of visiting all 50 states.
